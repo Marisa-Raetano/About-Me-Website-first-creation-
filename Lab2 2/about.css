@@ -1,0 +1,24 @@
+body {
+  background-color: azure;
+
+}
+
+h2{
+   color: purple;
+       font-family: serif;
+       font-size: 24pt;
+       text-align: left;
+ }
+
+h3{
+color: deeppink;
+       font-family: italic;
+       font-size: 18pt;
+       text-align: center;
+
+}
+
+li {
+  list-style-type: circle;
+
+ }

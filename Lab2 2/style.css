@@ -1,0 +1,42 @@
+
+
+body {
+  background-color:lightsteelblue;
+  margin-left: 5%;
+  margin-top: 20px;
+
+}
+
+#contact{
+  text-align: center;
+
+  }
+
+
+#contact #name{
+float: left;
+  }
+
+
+#contact #phone{
+float: right;
+}
+
+
+h2{
+	color: white;
+       font-family: serif;
+       font-size: 16pt;
+}
+
+li {
+  list-style-type: circle;
+ 
+}
+
+#references li{
+  font-size: 10pt;
+  font-style: italic;
+}
+
+
